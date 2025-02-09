@@ -197,3 +197,4 @@ find footer.jpeg
 find client/assets/images
 find client
 find
+rmdir images
