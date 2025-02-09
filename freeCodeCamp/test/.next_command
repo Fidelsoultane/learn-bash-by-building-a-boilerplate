@@ -293,3 +293,4 @@ rm toms-website
 rmdir toms-website
 cp -r website-biolerplate toms-website
 cp -r website-boilerplate toms-website
+ls --color=auto
