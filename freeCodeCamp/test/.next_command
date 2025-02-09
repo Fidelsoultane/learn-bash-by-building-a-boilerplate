@@ -271,3 +271,25 @@ mv website-biolerplate website
 mv website website-boilerplate
 ls --color=auto
 cp --help
+cp --recursive website-biolerplate toms-website
+cd website-biolerplate
+cd website-biolerplate
+ls --color=auto
+cd website-boilerplate
+cp -r toms-website
+cp --recursive toms-website
+cp --help
+cd ..
+--recursive toms.website
+cp -r toms-website
+cp --recursive toms-website
+cp -recursive
+cp --recursive
+cp --recursive mkdir toms-website
+mkdir toms-website
+cp --recursivve website-biolerplate toms-website
+cp --recursive website-biolerplate toms-website
+rm toms-website
+rmdir toms-website
+cp -r website-biolerplate toms-website
+cp -r website-boilerplate toms-website
