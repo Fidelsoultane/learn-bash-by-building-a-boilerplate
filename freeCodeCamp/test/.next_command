@@ -50,3 +50,4 @@ ls --color=auto
 ls --color=auto -l
 more has
 cd has
+ls --color=auto
