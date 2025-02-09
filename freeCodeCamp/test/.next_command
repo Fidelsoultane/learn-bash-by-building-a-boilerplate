@@ -257,3 +257,4 @@ echo I made this biolerplate README.md
 find
 echo I made this boilerplate >> README.md
 more README.md
+echo from the command line >> README.md
