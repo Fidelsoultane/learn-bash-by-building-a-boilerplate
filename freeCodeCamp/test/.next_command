@@ -270,3 +270,4 @@ ls --color=auto
 mv website-biolerplate website
 mv website website-boilerplate
 ls --color=auto
+cp --help
