@@ -199,3 +199,13 @@ find client
 find
 rmdir images
 rm images/background.jpg
+rmdir images
+images
+rmdir images
+ls --color=auto
+cd images
+ls --color=auto
+rm footer.png
+ls --color=auto
+cd ..
+rmdir images
