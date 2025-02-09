@@ -193,3 +193,7 @@ cd ..
 find -name footer.jpeg
 mv footer.jpeg client/assets/images
 mv images/footer.jpeg client/assets/images
+find footer.jpeg
+find client/assets/images
+find client
+find
