@@ -191,3 +191,5 @@ cd images
 ls --color=auto
 cd ..
 find -name footer.jpeg
+mv footer.jpeg client/assets/images
+mv images/footer.jpeg client/assets/images
