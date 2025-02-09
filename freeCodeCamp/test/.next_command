@@ -251,3 +251,8 @@ echo I finished the biolerplate!
 I finished the biolerplate!
 echo I finished the boilerplate!
 echo one more thing...
+echo I made this boilerplate README.md
+echo I made this boilerplate README.md
+echo I made this biolerplate README.md
+find
+echo I made this boilerplate >> README.md
